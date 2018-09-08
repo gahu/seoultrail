@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GoTogether
 # 서울둘레길 앱을 위한 git 정책
 - 프로젝트에 contribute 하기위해서 project owner 가 contributor 로 추가해줘야한다.
@@ -170,5 +169,3 @@ $ git fetch -p
 - 개발 tool 은 Android Studio를 사용한다.
 - 모든 작업은 pull request로 올리고, 작업한 내용을 상세하게 적는다.
 - pull request전에는 항상 작업한 내용을 백업해두고, push 정책에 따라 실행한다.
-
->>>>>>> 84a9be8d4a2a8b088649d0d9428ad4654bf73262
